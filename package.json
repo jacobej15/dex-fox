@@ -1,0 +1,25 @@
+{
+  "name": "dex-fox",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobej15/dex-fox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobej15/dex-fox/issues"
+  },
+  "homepage": "https://github.com/jacobej15/dex-fox#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
